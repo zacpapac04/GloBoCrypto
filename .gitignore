@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GloboCrypto/GloboCrypto.Models/bin/Debug/netstandard2.1
+/GloboCrypto/GloboCrypto.Models/obj
+/GloboCrypto/.vs
+/GloboCrypto/GloboCrypto.Tests/bin
+/GloboCrypto/GloboCrypto.Tests/obj
+/GloboCrypto/GloboCrypto.Tests/GloboCrypto.Tests.csproj
+/GloboCrypto/GloboCrypto.WebAPI/bin/Debug/net6.0
+/GloboCrypto/GloboCrypto.WebAPI/obj
+/GloboCrypto/GloboCrypto.WebAPI.Services/bin/Debug/net6.0
+/GloboCrypto/GloboCrypto.WebAPI.Services/obj
